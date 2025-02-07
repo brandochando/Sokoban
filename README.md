@@ -1,3 +1,3 @@
-- Developed an AI-powered Sokoban solver implementing Iterative Deepening DFS, BFS, Greedy BFS, and A* to find optimal solutions.
-- Designed and optimized heuristics to improve search efficiency, reducing move count by X%.
+- This is a Sokoban solver implementing Iterative Deepening DFS, BFS, Greedy BFS, and A* to find optimal solutions.
+- Designed and optimized heuristics to improve search efficiency.
 - Used priority queues and state-space search to evaluate game positions dynamically.
